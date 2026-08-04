@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Banner">
+</p>
 <p align="center"><strong>A comprehensive curated list of the best Jobsite Safety Management Software, SaaS products, and Open-Source tools for Construction and Industrial EHS (Environment, Health, and Safety) operations in 2026. Discover digital inspections, hazard reporting, incident management, and more.</strong></p>
 
 # Awesome-Jobsite-Safety-Management
