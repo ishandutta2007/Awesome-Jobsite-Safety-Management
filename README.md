@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Safesite](https://safesitehq.com/)**  
-  Mobile-first safety management platform for inspections, hazard reporting, incidents, toolbox talks, and leading-indicator analytics. Popular with small-to-midsize contractors and subcontractors.
-
-- **[HammerTech](https://www.hammertech.com/)**  
-  Construction-focused safety and site operations platform covering worker orientations, subcontractor compliance, permits, inspections, incidents, and project-wide safety workflows.
-
-- **[SiteDocs](https://www.sitedocs.com/)**  
-  Digital forms and compliance platform for hazard assessments, FLRAs/JSAs, toolbox talks, certifications, corrective actions, and real-time safety monitoring on jobsites.
-
-- **[SafetyCulture (formerly iAuditor)](https://safetyculture.com/)**  
-  Mobile-first operations and inspection platform with extensive template libraries, issue tracking, corrective actions, training, and analytics used widely for field safety checks.
-
-- **[KPA](https://kpa.io/)**  
-  Configurable EHS software (KPA Flex) combining safety management, training, incident tracking, and compliance tools tailored for industrial and construction workforces.
-
-- **[EHS Insight](https://www.ehsinsight.com/)**  
-  Cloud EHS platform focused on incident management, inspections, safety observations, corrective actions, and mobile-friendly workflows for mid-market teams.
-
-- **[EcoOnline](https://www.ecoonline.com/)**  
-  Multi-site EHS platform covering incidents, risk assessments, chemical/SDS management, contractor compliance, inspections, and environmental reporting.
-
-- **[Intelex](https://www.intelex.com/)**  
-  Highly configurable enterprise EHSQ platform for incident management, audits, CAPA, risk assessment, compliance tracking, and complex multi-site workflows.
-
-- **[Cority](https://www.cority.com/)**  
-  Comprehensive EHS+ platform (CorityOne) unifying occupational health, safety, environmental compliance, incident management, and sustainability reporting for large organizations.
-
-- **[SafetyAmp](https://www.safetyamp.com/)**  
-  Modern safety management software emphasizing employee engagement, incident reporting, observations, and streamlined EHS workflows for growing teams.
+| Platform | Description | Pricing / Free Tier |
+|----------|-------------|---------------------|
+| **[Safesite](https://safesitehq.com/)** | Mobile-first safety management platform for inspections, hazard reporting, incidents, toolbox talks, and leading-indicator analytics. Popular with small-to-midsize contractors and subcontractors. | Premium plans start at ~$16/user/mo. Free tier available (reporting limited to last 30 days). |
+| **[HammerTech](https://www.hammertech.com/)** | Construction-focused safety and site operations platform covering worker orientations, subcontractor compliance, permits, inspections, incidents, and project-wide safety workflows. | Custom pricing. No free tier. |
+| **[SiteDocs](https://www.sitedocs.com/)** | Digital forms and compliance platform for hazard assessments, FLRAs/JSAs, toolbox talks, certifications, corrective actions, and real-time safety monitoring on jobsites. | Custom pricing. No free tier. |
+| **[SafetyCulture (formerly iAuditor)](https://safetyculture.com/)** | Mobile-first operations and inspection platform with extensive template libraries, issue tracking, corrective actions, training, and analytics used widely for field safety checks. | Premium plans start at ~$24/user/mo. Free tier available (up to 10 users, 5 active inspection templates). |
+| **[KPA](https://kpa.io/)** | Configurable EHS software (KPA Flex) combining safety management, training, incident tracking, and compliance tools tailored for industrial and construction workforces. | Custom pricing. No free tier. |
+| **[EHS Insight](https://www.ehsinsight.com/)** | Cloud EHS platform focused on incident management, inspections, safety observations, corrective actions, and mobile-friendly workflows for mid-market teams. | Custom pricing. No free tier. |
+| **[EcoOnline](https://www.ecoonline.com/)** | Multi-site EHS platform covering incidents, risk assessments, chemical/SDS management, contractor compliance, inspections, and environmental reporting. | Custom pricing. No free tier. |
+| **[Intelex](https://www.intelex.com/)** | Highly configurable enterprise EHSQ platform for incident management, audits, CAPA, risk assessment, compliance tracking, and complex multi-site workflows. | Custom pricing. No free tier. |
+| **[Cority](https://www.cority.com/)** | Comprehensive EHS+ platform (CorityOne) unifying occupational health, safety, environmental compliance, incident management, and sustainability reporting for large organizations. | Custom pricing. No free tier. |
+| **[SafetyAmp](https://www.safetyamp.com/)** | Modern safety management software emphasizing employee engagement, incident reporting, observations, and streamlined EHS workflows for growing teams. | Custom pricing. No free tier. |
 
 ## Open-Source GitHub Projects
 
