@@ -45,6 +45,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[EHS Insight](https://www.ehsinsight.com/)** | Cloud EHS platform focused on incident management, inspections, safety observations, corrective actions, and mobile-friendly workflows for mid-market teams. | Custom pricing. No free tier. | Mid-market |
 | **[SafetyAmp](https://www.safetyamp.com/)** | Modern safety management software emphasizing employee engagement, incident reporting, observations, and streamlined EHS workflows for growing teams. | Custom pricing. No free tier. | Startup / Growing |
 | **[ComplyOnSite](https://complyonsite.com/)** | Construction health, safety and environmental compliance software for UK contractors. | Free RAMS, HAVS and site paperwork tools. | Not disclosed. |
+| **[SafetyStack training matrix](https://safetystack.co.uk/tools/training-matrix/)** | Hosted browser utility for UK teams to record workers, training items and expiry dates, print a matrix and download calendar reminders. Records entered information; does not certify competence. | Free standalone tool, no account required. Wider product plans are separate. | Not disclosed. |
 
 ## 💻 Open-Source GitHub Projects
 
