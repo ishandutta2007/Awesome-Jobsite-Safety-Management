@@ -25,10 +25,16 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## 📋 Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
+- [Support](#support)
 - [Disclaimer](#disclaimer)
+
+## 📊 Sector Overview & Market Dynamics
+
+The global Jobsite Safety Management and Construction EHS software market is estimated at **$2.1 Billion** in 2026 and is projected to surpass **$3.8 Billion** by 2031 (CAGR ~12.5%). Rather than a winner-take-all monopoly, the sector is **moderately fragmented**, balancing broad enterprise construction suites (e.g., Procore, Autodesk Construction Cloud) with specialized high-velocity point solutions, regulatory compliance form engines, and next-generation AI computer-vision PPE platforms.
 
 ## 🚀 SaaS/Hosted Platforms
 
@@ -85,6 +91,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 4. Submit PR with a short explanation.
 
 Star the repo if you find it useful!
+
+## 💖 Support
+
+Thank you for exploring and supporting **Awesome-Jobsite-Safety-Management**! If you find this curated ecosystem helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to show appreciation and help others discover it.
+- 🍴 **Fork and share** with fellow developers, safety officers, and EHS professionals.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance, updates, and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support helps keep open-source research and resources thriving! ✨
 
 ## ⚠️ Disclaimer
 
